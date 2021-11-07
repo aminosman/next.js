@@ -28,6 +28,7 @@ const externals = {
 
   chalk: 'chalk',
   'node-fetch': 'node-fetch',
+  'abort-controller': 'abort-controller',
   postcss: 'postcss',
   // Ensure latest version is used
   'postcss-safe-parser': 'next/dist/compiled/postcss-safe-parser',

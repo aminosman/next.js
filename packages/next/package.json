@@ -73,6 +73,7 @@
     "@next/react-dev-overlay": "12.0.3",
     "@next/react-refresh-utils": "12.0.3",
     "acorn": "8.5.0",
+    "abort-controller": "3.0.0",
     "assert": "2.0.0",
     "browserify-zlib": "0.2.0",
     "browserslist": "4.16.6",
@@ -113,7 +114,8 @@
     "use-subscription": "1.5.1",
     "util": "0.12.4",
     "vm-browserify": "1.1.2",
-    "watchpack": "2.1.1"
+    "watchpack": "2.1.1",
+    "yet-another-abortcontroller-polyfill": "0.0.4"
   },
   "peerDependencies": {
     "fibers": ">= 3.1.0",
